@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lauradevill
 - 👀 I’m interested in learning programming!
-- 🌱 I’m currently learning Programming on Misión TIC 2022 
+- 🌱 I’m currently learning Programming on Misión TIC 2022 and Platzi
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 you can reach me at lauradevilleros@gmail.com
 
